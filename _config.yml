@@ -1,19 +1,19 @@
 # Site
-title:              Adrian Laus Blog
-bio:                'Placeholder'
-description:        "PlaceholderP"
+title:              Adrian Laus
+bio:                'BIO PLACEHOLDER'
+description:        "DESCRIPTION PLACEHOLDER"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl:            'BASEURL SUBPATH PLACEHOLDER'# the subpath of your site, e.g. /blog
+url:                'BASE HOSTNAME AND PROTOCOL PLACEHOLDER' # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
+#twitter:            default
+#facebook:           default
+#instagram:          default
 github:             default
 
 # personal
